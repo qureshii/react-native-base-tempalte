@@ -1,9 +1,5 @@
-# expo-template-native-base
+# react-native-base-template
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+Template that includes, ReactNative, Expo, NativebaseUI, navigation, Reducer and Dark mode support
 
-## Usage
 
-```sh
-expo init my-app --template expo-template-native-base
-```
